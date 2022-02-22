@@ -17,6 +17,9 @@ sleep(1)
 
 print(Fore.BLUE + "Hornet's Operating System Booting Up\n")
 
+sleep(1)
+
+
 # Gas Branch
 
 # Gas Level Function
@@ -47,3 +50,4 @@ def gasLevelAlert():
 
 # Call Functions Here
 gasLevelAlert()
+
